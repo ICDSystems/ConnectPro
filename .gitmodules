@@ -1,0 +1,96 @@
+[submodule "ICD.Connect.API"]
+	path = ICD.Connect.API
+	url = https://https://github.com/ICDSystems/ICD.Connect.API
+	branch = master
+[submodule "ICD.Connect.Audio"]
+	path = ICD.Connect.Audio
+	url = https://https://github.com/ICDSystems/ICD.Connect.Audio
+	branch = master
+[submodule "ICD.Connect.Calendaring"]
+	path = ICD.Connect.Calendaring
+	url = https://https://github.com/ICDSystems/ICD.Connect.Calendaring
+	branch = master
+[submodule "ICD.Connect.Cameras"]
+	path = ICD.Connect.Cameras
+	url = https://https://github.com/ICDSystems/ICD.Connect.Cameras
+	branch = master
+[submodule "ICD.Connect.Conferencing"]
+	path = ICD.Connect.Conferencing
+	url = https://https://github.com/ICDSystems/ICD.Connect.Conferencing
+	branch = master
+[submodule "ICD.Connect.Devices"]
+	path = ICD.Connect.Devices
+	url = https://https://github.com/ICDSystems/ICD.Connect.Devices
+	branch = master
+[submodule "ICD.Connect.Displays"]
+	path = ICD.Connect.Displays
+	url = https://https://github.com/ICDSystems/ICD.Connect.Displays
+	branch = master
+[submodule "ICD.Connect.Krang"]
+	path = ICD.Connect.Krang
+	url = https://https://github.com/ICDSystems/ICD.Connect.Krang
+	branch = master
+[submodule "ICD.Connect.Lighting"]
+	path = ICD.Connect.Lighting
+	url = https://https://github.com/ICDSystems/ICD.Connect.Lighting
+	branch = master
+[submodule "ICD.Connect.Misc"]
+	path = ICD.Connect.Misc
+	url = https://https://github.com/ICDSystems/ICD.Connect.Misc
+	branch = master
+[submodule "ICD.Connect.Panels"]
+	path = ICD.Connect.Panels
+	url = https://https://github.com/ICDSystems/ICD.Connect.Panels
+	branch = master
+[submodule "ICD.Connect.Partitioning"]
+	path = ICD.Connect.Partitioning
+	url = https://https://github.com/ICDSystems/ICD.Connect.Partitioning
+	branch = master
+[submodule "ICD.Connect.Protocol"]
+	path = ICD.Connect.Protocol
+	url = https://https://github.com/ICDSystems/ICD.Connect.Protocol
+	branch = master
+[submodule "ICD.Connect.Routing"]
+	path = ICD.Connect.Routing
+	url = https://https://github.com/ICDSystems/ICD.Connect.Routing
+	branch = master
+[submodule "ICD.Connect.Settings"]
+	path = ICD.Connect.Settings
+	url = https://https://github.com/ICDSystems/ICD.Connect.Settings
+	branch = master
+[submodule "ICD.Connect.Sources"]
+	path = ICD.Connect.Sources
+	url = https://https://github.com/ICDSystems/ICD.Connect.Sources
+	branch = master
+[submodule "ICD.Connect.Telemetry"]
+	path = ICD.Connect.Telemetry
+	url = https://https://github.com/ICDSystems/ICD.Connect.Telemetry
+	branch = master
+[submodule "ICD.Connect.Themes"]
+	path = ICD.Connect.Themes
+	url = https://https://github.com/ICDSystems/ICD.Connect.Themes
+	branch = master
+[submodule "ICD.Connect.UI"]
+	path = ICD.Connect.UI
+	url = https://https://github.com/ICDSystems/ICD.Connect.UI
+	branch = master
+[submodule "ICD.Common.Licensing"]
+	path = ICD.Common.Licensing
+	url = https://https://github.com/ICDSystems/ICD.Common.Licensing
+	branch = master
+[submodule "ICD.Common.Logging"]
+	path = ICD.Common.Logging
+	url = https://https://github.com/ICDSystems/ICD.Common.Logging
+	branch = master
+[submodule "ICD.Common.Permissions"]
+	path = ICD.Common.Permissions
+	url = https://https://github.com/ICDSystems/ICD.Common.Permissions
+	branch = master
+[submodule "ICD.Common.Utils"]
+	path = ICD.Common.Utils
+	url = https://https://github.com/ICDSystems/ICD.Common.Utils
+	branch = master
+[submodule "ICD.Profound.ConnectPRO"]
+	path = ICD.Profound.ConnectPRO
+	url = https://https://github.com/ICDSystems/ICD.Profound.ConnectPRO
+	branch = dev
