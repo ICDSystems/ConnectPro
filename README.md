@@ -4,7 +4,7 @@
 ConnectPro is a complete conference room system built in C#, for Crestron 3-series, 4-series, and any NetStandard platforms.  It is built on the *ICD Connect* (codenamed *Krang*) framework.
 
 ## Themes
-The way ConnectPro itself behaves is specified by the theme, in [ICD.Profound.ConnectPro](https://github.com/ICDSystems/ICD.Profound.ConnectPRO/). The Theme contains all the specific logic for this implementation, including the user interface logic and business logic.
+The way ConnectPro itself behaves is specified by the theme, in [*ICD.Profound.ConnectPro*](https://github.com/ICDSystems/ICD.Profound.ConnectPRO/). The Theme contains all the specific logic for this implementation, including the user interface logic and business logic.
 
 ## Panel Files
 The panel files are avalialbe [here](https://github.com/ICDSystems/ConnectProPanel).
